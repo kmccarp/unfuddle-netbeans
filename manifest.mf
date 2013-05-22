@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.unfuddle.netbeans
+OpenIDE-Module-Localizing-Bundle: com/unfuddle/netbeans/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
